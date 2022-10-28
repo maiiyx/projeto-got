@@ -1,0 +1,28 @@
+.container{
+    background-color: black;
+    width: 730px;
+}
+
+.nav{
+    background-color: black;
+    color: white;
+    padding: 1rem;
+    text-decoration: white;
+}
+
+.nav-link{
+    color: white;
+    font-weight: 700;
+    text-decoration: none;
+    padding: 1rem;
+}
+
+main{
+    color: white;
+    padding: 1rem;
+}
+
+footer p{
+    color: white;
+    text-align: center;
+}
